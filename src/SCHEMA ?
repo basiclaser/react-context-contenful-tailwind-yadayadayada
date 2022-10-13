@@ -1,0 +1,23 @@
+SCHEMA ? 
+SCHEMA     - DATABASES
+SQL        - TABLE
+TYPESCRIPT - INTERFACE
+JAVASCRIPT - CLASS
+CONTENTFUL - CONTENT MODEL
+
+Event
+    name
+    image
+    trailer
+    time
+    location
+    venue
+    description
+    price
+
+Venue
+    name
+    address 
+    url 
+    opening hours
+    phoneNumber
